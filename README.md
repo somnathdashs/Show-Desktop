@@ -6,7 +6,7 @@
 It happens with us most of the time that, when we are busy on some personal work on our laptop or computer and someone sudden visit or enter the room can see our screen with the personal window open. To hide all of it sudden we need to minimize the window. Yeah, of course you can do it by pressing "Win + D" in your keyboard, but what in case you missed or wrong press any key in the sudden situations? or what if you fails to press it?
 
 ### Here i am..
-To hide all your personal window in just in click you just need to install this software.
+To hide all your personal window in just a click you just need to install this software.
 "Show Desktop" is not only hide your personal windows but it also restore it with the same click.
 
 ## But where to click?
